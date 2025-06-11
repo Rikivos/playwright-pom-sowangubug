@@ -15,5 +15,6 @@ class SearchArticlePage:
         self.page.click(locsearch.SEARCH_BUTTON)
         self.page.fill(locsearch.SEARCH_INPUT, "olahraga")
         self.page.click(locsearch.SUBMIT_BUTTON)
+        self.page.click(locsearch.CLICK_ARTICLE_BUTTON)
         time.sleep(5)
         
