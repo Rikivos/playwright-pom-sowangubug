@@ -1,0 +1,8 @@
+TITLE_INPUT = 'input[name="title"]'
+CONTENT_INPUT = 'div[role="textbox"]'
+CATEGORY_SELECT = 'span[id="select2-category-container"]'
+KEYWORDS_INPUT = 'input[type="search"]'
+IMAGE_UPLOAD = 'input[type="file"]'
+STATUS_SELECT = 'select[name="status"]'
+SAVE_BUTTON = 'button[type="submit"]'
+CANCEL_BUTTON = 'button[type="button"]'
