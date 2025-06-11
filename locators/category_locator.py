@@ -1,0 +1,7 @@
+TITLE_INPUT = 'input[name="title"]'
+DESCRIPTION_INPUT = 'textarea[name="description"]'
+SUBMIT_BUTTON = 'button[type="submit"]'
+IMAGE_UPLOAD = 'input[type="file"]'
+STATUS_SELECT = 'select[name="status"]'
+SAVE_BUTTON = 'button[type="submit"]'
+CANCEL_BUTTON = 'button[type="button"]'
